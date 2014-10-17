@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tvk:home|Door43 (tvk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tvk|d43-tvk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tvk/archive/master.zip|d43-tvk.zip]]
+
+**Recent Changes**
+{{changes>ns = tvk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tvk|Ethnologue data]]
+
